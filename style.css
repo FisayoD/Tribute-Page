@@ -1,0 +1,68 @@
+body{
+    font-family: Helvetica, sans-seriff
+   }
+   html{
+     font-size:16px;
+   }
+   h1{
+     padding-top:3%;
+   font-size:2.5rem;
+   }
+   main{
+     background-color:#eee;
+     color:#333;
+   }
+   header{
+     text-align:center
+     
+   }
+   #title{
+     font-weight:normal;
+   }
+   #img-div{
+     margin-left:2%;
+     margin-right:2%;
+     width:96%;
+     height:53%;
+     overflow:hidden;
+     background-color:#fff;
+   }
+   #image{
+     max-width:100%;
+     height:auto;
+     margin:0 auto;
+     display:block;
+     padding-bottom:1%;
+   }
+   figcaption{
+     display:block;
+     text-align:center;
+   }
+   h2{
+     text-align:center;
+   }
+   #achievements{
+    padding-left:25%;
+     width:50%;
+     line-height:1.5;
+   }
+   blockquote{
+    padding-left:22%; 
+     font-style:italic;
+   }
+   p{
+     line-height:1;
+    padding-left:25%;
+     font-style:italic;
+    display:inline;
+   }
+   footer{
+     text-align:center;
+     font-size:1.4rem;
+     font-weight:bold;
+     padding-bottom:2%;
+   }
+   
+   
+ 
+   
